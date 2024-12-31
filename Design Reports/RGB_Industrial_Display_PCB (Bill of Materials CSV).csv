@@ -1,0 +1,47 @@
+Component,Value,Qty,Package,URL,Manufacturer,Supplier Part,Price
+1N4007F,,1,SODFL4626X110N,"ROHM 400V 1A, Rectifier Diode, 2-Pin SOD-123 RR264MM-400TR | RS",ROHM,124-6806,0.086
+1WP,,4,DSC,"HDR100IMP40M-G-V-TH | CHIPQUIK HDR100IMP40 Series Vertical PCB Mount PCB Header, 40 Contact(s), 2.54mm Pitch, 1 Row(s), Unshrouded | RS",CHIPQUIK,286-2007,0.42
+6TPE220MAZB,,4,CAPPM3528X200N,"6TPE220MAZB | Panasonic 220?F Surface Mount Polymer Capacitor, 6.3V dc | RS",Panasonic,7955960P,1.152
+50SVPF68M,,4,CAPAE1030X1270N,"50SVPF68M | Panasonic 68?F Surface Mount Polymer Capacitor, 50V dc | RS",Panasonic,7955421P,1.745
+08051A220JATDA,10uf tant 50V,2,SM0805,"TCJA106M016R0200 | KYOCERA AVX 10?F Surface Mount Polymer Capacitor, 16V dc | RS",KYOCERA,648-0935,0.403
+08055C103KATDA,10nf 50V,9,C0805,"08055F103KAT2A | KYOCERA AVX 10nF Multilayer Ceramic Capacitor MLCC, 50V dc V, ±10% , SMD | RS",KYOCERA,698-3462,0.063
+08055C104KATDA,100nf 50V,11,C0805,"08055F104KAT2A | KYOCERA AVX 100nF Multilayer Ceramic Capacitor MLCC, 50V dc V, SMD | RS",KYOCERA,134-9149,0.097
+08055C222KATDA,18pF 100V,2,C0805,"08051A180JAT2A | KYOCERA AVX 18pF Multilayer Ceramic Capacitor MLCC, 100V dc V, ±5% , SMD | RS",KYOCERA,144-4517,0.029
+2201778-1,microSD,1,22017781,2201778-1 | TE Connectivity 8 Way Right Angle Micro SD SD Card Connector With Solder Termination | RS,TE Connectivity,2175449,2.42
+2301995-3,RJ45 Vert,1,23019953_2,"2301995-3 | TE Connectivity 2301995 Series Female RJ45 Connector, PCB Mount, Cat6, Nickel Plated Brass Shield Vertical 1 x 1 Port 8 | RS",TE Connectivity,1443307P,6.1
+61201621621,16P Socket,1,SHDR16W79P254_2X8_2798X910X925,"61201621621 | Wurth Elektronik WR-BHD Series Straight Through Hole PCB Header, 16 Contact(s), 2.54mm Pitch, 2 Row(s), Shrouded | RS",Wurth Electronik,7718357,0.536
+ABM3B-8.000MHZ-10-1-U-T,8MHZ XTAL ,1,ABM3B,ABMM2-8.000MHZ-E2-T | Abracon 8MHz Crystal Unit ±20ppm SMD 4-Pin 6 x 3.5 x 1.2mm | RS,Abracon,171-2700,0.598
+ABM3B-25.000MHZ-10-1-U-T,24MHZ XTAL,1,ABM3B,ABM3B-25.000MHZ-10-1-U-T | Abracon 25MHz Crystal ±10ppm SMD 5 x 3 x 1.1mm | RS,Abracon,171-0627,0.592
+BLM21BB050SH1D_250_100Mhz_0805,Ferrite bead,3,BLM21BB050SH1D,"BLM21BD102SN1D | Murata Ferrite Bead (Chip Ferrite Bead), 2 x 1.25 x 0.85mm (0805 (2012M)), 1000? impedance at 100 MHz | RS",Murata Ferrite bead,230-3834,0.069
+CONN_SIL_5,PRGM,1,DSC,"826926-5 | TE Connectivity AMPMODU MOD II Series Straight Through Hole Pin Header, 5 Contact(s), 2.54mm Pitch, 1 Row(s), Unshrouded | RS",TE Connectivity,669-5323,0.143
+CONN_SIL_8P,Header,1,DSC,"3-644456-8 | TE Connectivity MTA-100 Series Straight Through Hole Pin Header, 8 Contact(s), 2.54mm Pitch, 1 Row(s), Unshrouded | RS",TE Connectivity,793-6729,0.416
+EEEFK1C101AP,100uF 16V,1,FKV(D),"Panasonic 100?F Aluminium Electrolytic Capacitor 16V dc, Surface Mount - EEEFK1C101AP | RS",Pannasonic,565-695,0.428
+ENC28J60_SS,CHIP,1,SOP65P780X200-28N,"Microchip ENC28J60-I/SS, Ethernet Controller, 10Mbps MII, MIIM, Serial-SPI, 3.3 V, 28-Pin SSOP | RS",Microchip,912-2941,3
+LG_R971,LED 5MM RED,3,LEDC2012X90N,"ams OSRAM2.2 V Green LED 2012 (0805) SMD, CHIP LED 0805 LG R971 | RS",ams  OSRAM,654-5773,0.133
+LM1117IMPX3.3_NOPB,,1,SOT230P700X180-4N,"Microchip TC2117-3.3VDBTR, 1 Low Dropout Voltage, Voltage Regulator 800mA, 3.3 V 3+Tab-Pin, SOT-223 | RS",Microchip,823-4434,0.493
+PIC32MZ2048EFH064-250I_PT,,1,QFP50P1200X1200X120-64N,"Microchip PIC32MZ2048EFH064-250I/PT, 32bit 32 bit CPU Microcontroller, PIC32, 252MHz, 2.048 MB Flash, 64-Pin TQFP | RS",Microchip,1468855P,11.45
+R 0.1W SMTF 0,0ohm,1,SM0805,,,,0.028
+R 0.1W SMTF 1.0K,1kohm,6,SM0805,"RS PRO 1k?, 0805 (2012M) Thick Film SMD Resistor ±1% 0.125W | RS",,804-6449,0.004
+R 0.1W SMTF 1.0K,,1,SM0805,,,,0.004
+R 0.1W SMTF 1M,,1,SM0805,,,,0.004
+R 0.1W SMTF 2.7K,,1,SM0805,,,566-484,0.004
+R 0.1W SMTF 3.3K,,2,SM0805,,,866-7424,0.004
+R 0.1W SMTF 10K,,1,SM0805,,,740-9224,0.004
+R 0.1W SMTF 10K,,3,SM0805,,,741-9224,0.004
+R 0.1W SMTF 10K,,1,SM0805,,,740-9224,0.004
+R 0.1W SMTF 27,,2,SM0805,,,,0.004
+R 0.1W SMTF 47,,4,SM0805,,,828-0702,0.004
+R 0.1W SMTF 100,,3,SM0805,,,866-7279,0.004
+R 0.1W SMTF 100K,,2,SM0805,,,,0.004
+RKEF075,0.75A fuse,2,RKEF075,"RKEF075 | Littelfuse 0.75A Resettable Fuse, 60V | RS",,712-7480,0.317
+RLF12560T-100M7R5-PF,,2,INDPM125128X600N,https://www.lcsc.com/product-detail/Power-Inductors_TDK-RLF12560T-100M7R5_C138514.html,TDK /lcsc,741-3267,2.81
+RUEF300,,2,RUEF300,"RUEF300 | Littelfuse 3A Resettable Fuse, 30V dc | RS",,5176821P,0.364
+SBRD10200TR,,2,SMC_DPAK,"Vishay 1200V 8A, Diode, 3 + Tab-Pin DPAK VS-8EWS12S-M3 | RS",Vishay,180-7316,0.416
+SMBJ6.5CA-Q,,2,DIONM5436X244N,https://www.lcsc.com/product-detail/ESD-and-Surge-Protection-TVS-ESD_BOURNS-SMBJ6-5CA-Q_C1518408.html,Bourns,699-8085,0.14
+SMBJ36CA,,2,DIONM5336X245N,https://www.lcsc.com/product-detail/ESD-and-Surge-Protection-TVS-ESD_Liown-SMBJ36CA-Q_C18347526.html,Bourns,802-2332,0.14
+TCJA106M016R0200,Tant cap 10uf 50v,3,CAPPM3216X180N,"TCJA106M016R0200 | KYOCERA AVX 10?F Surface Mount Polymer Capacitor, 16V dc | RS",KYOCERA,144-1494,0.269
+TL1105CF160Q,Tactile switch,1,TL1105CF160Q,"1825910-6 | TE Connectivity Black Button Tactile Switch, SPST 50 mA @ 24 V dc 1.4mm Surface Mount | RS",TE Connectivity,479-1413,0.102
+TPS5450DDAR,5amp dcdc conv,2,SOIC127P600X170-9N,TPS5450DDAR | 5A Step-Down Converter 36V HSOP8EP | RS,TI,8256848P,1.67
+USB3140-30-0140-1-C,usb micro vert,1,USB31403001401C,https://www.lcsc.com/product-detail/USB-Connectors_Global-Connector-Technology-USB3140-30-0140-1-C_C5815155.html,GCT,c5815155,0.93
+USBLC62P6,usb tvs,1,USBLC62P6,https://www.lcsc.com/product-detail/ESD-and-Surge-Protection-TVS-ESD_STMicroelectronics-USBLC6-2P6_C15999.html,ST Micro,c15999,0.97
+,,,,,,,
